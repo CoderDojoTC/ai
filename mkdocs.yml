@@ -1,6 +1,7 @@
 site_name: 'CoderDojo TC AI'
 nav:
   - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
+  - CoderDojo TC AI: index.md
   - Resources: resources.md
   - Contact: contact.md
 
