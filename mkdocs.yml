@@ -1,0 +1,32 @@
+site_name: 'CoderDojo TC AI'
+nav:
+  - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
+  - Resources: resources.md
+  - Contact: contact.md
+
+site_description: 'Resources for teaching AI to CoderDojo Twin Cities students.'
+site_author: 'Dan McCreary'
+repo_name: 'ai'
+repo_url: 'https://github.com/CoderDojoTC/ai'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  logo: img/coderdojo-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite
