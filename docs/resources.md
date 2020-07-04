@@ -64,3 +64,14 @@ background in AI.  It includes many useful references.
 Both chatbots and Alexa apps (called "skills") are examples of conversational AI.
 Designing AI for the classroom is currently difficult.
 [Amazon Alexa Confersational AI](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/conversational-ai)
+
+## Videos
+
+#### What is a neural network?
+This has some of the best video production value of all the intoductary videos
+on deep learning.  
+It is part of the high quality [Three Blue One Brown series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) set of videos done by [Grant Sanderson](https://www.3blue1brown.com/about) of Stanford University and the Kahn Academy.  The videos include many animated visual explainations that use both motion and color to describe mathematics.
+The example used is the popular MNIST digit recognition example.  What we call the "Hello world" of AI.  It walks though the process of representing digits in a 28X28 matrix of values for each digit and passing the images through a deep learing neural network.
+This video covers the concepts of image recognition, digit recognition, image pixels, pixel brightness, neural network, input layers, hidden layers, output layers, activation, probability, decomposition, training, weighted sums, normalization, the sigmoid function, bias, parameter counting (weights and bias), vector representations, matrix representations, linear algebra, transformation functions.
+[What is a neural network?]
+https://www.youtube.com/watch?time_continue=5&v=aircAruvnKk&feature=emb_logo
