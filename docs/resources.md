@@ -65,6 +65,19 @@ Both chatbots and Alexa apps (called "skills") are examples of conversational AI
 Designing AI for the classroom is currently difficult.
 [Amazon Alexa Confersational AI](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/conversational-ai)
 
+#### Grammerly Tool - AI for checking your writing
+The Grammerly tool can be used to not only check your grammer but it will also suggest alternate words and see if the tone of your document
+matches your goals.
+[Grammerly](grammerly.com)
+
+Note that there is a plugin for VSCode here:
+[Grammerly VSCode Plugin](https://github.com/znck/grammarl)
+
+#### TabNine - AI for compleating your code
+The TabNine extension for your Integrated Development Environment (IDE) is a good example of using a predictive model to suggest what text should be next in a sentence.
+[TabNine](https://www.tabnine.com/)
+
+
 ## Videos
 
 #### What is a neural network?
