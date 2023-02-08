@@ -2,7 +2,7 @@
 We aspire to have a collection of AI activities for students
 that are both safe and fun.  There are many AI demos available
 but many of them are trained on a wide range of data that could
-include adult content.  So we need to be cautious before we recomend
+include adult content.  So we need to be cautious before we recommend
 a specific site.
 
 With that said, here are some demonstrations that can be both safe and
@@ -10,13 +10,15 @@ fun.  We hope you will try them out and let us know what activities are
 useful in your mentoring and classrooms.
 
 #### Quickdraw (with Google)
-This fun game challenges kids to draw a picure of a named item.  The students
+This fun game challenges kids to draw a picture of a named item.  The students
 have 20 seconds to draw the item.  As they draw the computer says "I see X"
 or "I see Y".  If the computer guesses correctly you go on to the next item.
 You get six items in a session.  Sample items are cup, clock, cellphone, lighthouse, bear etc.
-[QuickDraw](https://quickdraw.withgoogle.com/)
+
+* [QuickDraw website](https://quickdraw.withgoogle.com/)
 
 #### Teachable Machine
+
 This Google site is a great way to teach simple machine learning to students.
 Although it works on images and sounds, we use it mostly in the image mode.
 The site assumes you have a web camera and can hold items up to the camera for
@@ -25,25 +27,28 @@ a book and see if the computer can learn the images and then classify a new
 image.
 [Teachable Machine](https://teachablemachine.withgoogle.com)
 
-#### Google Tensorflow Playground
+#### Google TensorFlow Playground
+
 This site is excellent for helping you visualize
 how neural networks classify object.  The interactive
 tool allows you to change the number of neurons and
 layers in a neural network and see how these changes
 impact a simple classifier.
-[Google Tensorflow Playground](http://playground.tensorflow.org/)
+
+* [Google TensorFlow Playground](http://playground.tensorflow.org/)
 
 #### AI and Ethics for Middle School
-This is a cirriculum designed by MIT professor Blakeley H. Payne.
-The cirriculum focuses on topics such as training, classification and bias.
-<br/>
-[AI for Middle School (Course Description()](https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/)
-<br/>
-[AI for Middle School (Google Docs)](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
+
+This is a curriculum designed by MIT professor Blakeley H. Payne.
+The curriculum focuses on topics such as training, classification and bias.
+
+* [AI for Middle School (Course Description()](https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/)
+
+* [AI for Middle School (Google Docs)](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
 
 #### Chatbots for Kids
 Chatbots can be fun, but there are many concerns about chatbots with feedback that
-generate bias and adult content.  Althogh we recomend adult supervision for all chatbots, here is one that is relativly benign.
+generate bias and adult content.  Althogh we m adult supervision for all chatbots, here is one that is relativly benign.
 https://www.pandorabots.com/mitsuku/
 
 If you are interested in writing your own chatbot for a classroom activity, here are some guildlines:
