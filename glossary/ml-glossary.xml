@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/artificial-intelligence-virtual-artist</uri>
+  <prefLabel>Artificial Intelligence Virtual Artist</prefLabel>
+  <altLabel>AVIA</altLabel>
+  <definition>A deep learning algorithm applied to
+        music composition. In June 2016, it became the first system of algorithmic composition to be
+        registered, as a composer, in an authors' right Society SACEM. </definition>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <prefLabel>Numenta</prefLabel>
+    <definition> is a machine intelligence company that has developed a cohesive theory, core
+        software, technology and applications based on the principles of the neocortex </definition>
+</concept>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/accuracy</uri><prefLabel>Accuracy</prefLabel><altLabel></altLabel><definition>The quality or state of being correct or precise.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/action-potentials</uri><prefLabel>Action Potentials</prefLabel><altLabel></altLabel><definition>The change in electrical potential associated with the passage of an impulse along the membrane of a muscle cell or nerve cell.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/adaptive-systems</uri><prefLabel>Adaptive systems</prefLabel><altLabel></altLabel><definition>A set of interacting or interdependent entities, real or abstract, forming an integrated whole that together are able to respond to environmental changes or changes in the interacting parts, in a way analogous to either continuous physiological homeostasis or evolutionary adaptation in biology.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/alchemy</uri><prefLabel>Alchemy</prefLabel><altLabel></altLabel><definition>The medieval forerunner of chemistry, based on the supposed transformation of matter. It was concerned particularly with attempts to convert base metals into gold or to find a universal elixir.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/analogical-reasoning</uri><prefLabel>Analogical reasoning</prefLabel><altLabel></altLabel><definition>A type of thinking that relies upon an analogy. An analogical argument is an explicit representation of a form of analogical reasoning that cites accepted similarities between two systems to support the conclusion that some further similarity exists.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/analogy</uri><prefLabel>Analogy</prefLabel><altLabel></altLabel><definition>A comparison between two things, typically for the purpose of explanation or clarification.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/Apache-singa</uri>
+  <prefLabel>Apache SINGA</prefLabel>
+  <altLabel>SINGA</altLabel>
+  <definition>An Apache Incubating project for developing an open source machine learning
+        library. It provides a flexible architecture for scalable distributed training, is
+        extensible to run over a wide range of hardware, and has a focus on health-care
+        applications. </definition>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/artificial-intelligence</uri>
+  <prefLabel>Artificial Intelligence</prefLabel>
+  <altLabel>AI</altLabel>
+  <definition>A field of computer science that replicates the cognitive functions of 
+        the human brain.  Examples include problems such as visual perception, 
+        speech recognition, decision-making, and translation between languages.</definition>
+  <broader-prefLabel>Computer Science</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/computer-science</broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Artificial_intelligence</wikipedia-url>
+  <approval-status-code>published</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-06-05</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/artificial-neural-network</uri>
+  <prefLabel>Artificial Neural Network</prefLabel>
+  <altLabel>ANN</altLabel>
+  <definition>Computing systems inspired by the biological neural networks that constitute animal brains.</definition>
+  <broader-prefLabel>Artificial Intelligence</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/artificial-intelligence</broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Artificial_neural_network</wikipedia-url>
+  <approval-status-code>published</approval-status-code>
+  <approved-by/>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/assumptions</uri><prefLabel>Assumptions</prefLabel><altLabel></altLabel><definition>A thing that is accepted as true or as certain to happen, without proof.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/attention-</uri><prefLabel>Attention </prefLabel><altLabel></altLabel><definition>Deep Learning that uses a portion of the network to figure out what to "focus on."</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/attribute-selection-</uri><prefLabel>Attribute selection </prefLabel><altLabel>Feature selection</altLabel><definition>The process of selecting a subset of relevant features (variables, predictors) for use in model construction.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/attribute-weights</uri><prefLabel>Attribute weights</prefLabel><altLabel></altLabel><definition>This list allows you to change the order of attributes used in the SELECT clause of a query. For example, suppose the Region attribute is placed higher on the attribute weights list than the Customer State attribute.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/auditory-cortex</uri><prefLabel>Auditory cortex</prefLabel><altLabel></altLabel><definition>The section of the brain that processes information received through hearing. Located in the temporal lobe, a part of the cerebral cortex, it receives signals from the ears pertaining to pitch and volume of sound.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/automation</uri><prefLabel>Automation</prefLabel><altLabel></altLabel><definition>The use of largely automatic equipment in a system of manufacturing or other production process.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/a/b-testing</uri><prefLabel>A/B testing</prefLabel><altLabel>Split testing</altLabel><definition>Comparing two versions of a web page to see which one performs better. You compare two web pages by showing the two variants (let's call them A and B) to similar visitors at the same time. The one that gives a better conversion rate, wins!</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+        <uri>http://mantis.ai/concept/backpropagation-through-time</uri>
+        <prefLabel>Backpropagation Through Time</prefLabel>
+        <altLabel>BPTT</altLabel>
+        <definition>
+            <p>Backpropagation Through Time (<a href="http://axon.cs.byu.edu/~martinez/classes/678/Papers/Werbos_BPTT.pdf">paper</a>) is the <a href="#backpropagation">Backpropagation algorithm</a>
+                applied to Recurrent Neural Networks (RNNs). BPTT can be seen as the standard
+                backpropagation algorithm applied to an RNN, where each time step represents a layer
+                and the parameters are shared across layers. Because an RNN shares the same
+                parameters across all time steps, the errors at one time step must be backpropagated
+                “through time” to all previous time steps, hence the name. When dealing with long
+                sequences (hundreds of inputs), a truncated version of BPTT is often used to reduce
+                the computational cost. Truncated BPTT stops backpropagating the errors after a
+                fixed number of steps.</p>
+            <ul>
+                <li>
+                    <a href="http://axon.cs.byu.edu/~martinez/classes/678/Papers/Werbos_BPTT.pdf">
+                        Backpropagation Through Time: What It Does and How to Do It</a>
+                </li>
+            </ul>
+        </definition>
+    </concept>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/backpropagation</uri><prefLabel>Backpropagation</prefLabel><altLabel></altLabel><definition>A common method of training a neural net in which the initial system output is compared to the desired output, and the system is adjusted until the difference between the two is minimized.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/bagging</uri><prefLabel>Bagging</prefLabel><altLabel>Bootstrap aggregation</altLabel><definition>A machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. It also reduces variance and helps to avoid overfitting.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/baldwin-effect</uri><prefLabel>Baldwin effect</prefLabel><altLabel></altLabel><definition>The result of the interaction of evolution with learning by individual animals over their lifetime. It turns out that individual learning can enhance evolutionary learning at the species level.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/bayesian-learning</uri><prefLabel>Bayesian learning</prefLabel><altLabel></altLabel><definition>Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. Bayesian inference is an important technique in statistics, and especially in mathematical statistics.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/bayesian-methods</uri><prefLabel>Bayesian methods</prefLabel><altLabel></altLabel><definition>Being, relating to, or involving statistical methods that assign probabilities or distributions to events (such as rain tomorrow) or parameters (such as a population mean) based on experience or best guesses.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/bayesian-network</uri>
+  <prefLabel>Bayesian network</prefLabel>
+    <altLabel>Probabilistic graphical model</altLabel>
+    <altLabel>Bayes network</altLabel>
+    <altLabel>Belief network</altLabel>
+    <altLabel>Bayes model</altLabel>
+    <altLabel>Bayesian model</altLabel>
+    <altLabel>probabilistic directed acyclic graphical model</altLabel>
+    <definition>A probabilistic graphical model (a type of statistical model) that represents a set
+        of random variables and their conditional dependencies via a directed acyclic graph
+        (DAG).</definition>
+    <broader-prefLabel>Machine Learning</broader-prefLabel>
+    <broader-uri>http://mantis.ai/concept/machine-learning</broader-uri>
+    <wikipedia-url>https://en.wikipedia.org/wiki/Bayesian_network</wikipedia-url>
+    <approval-status-code>published</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-06-05</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/big-data-analytics</uri><prefLabel>Big Data Analytics</prefLabel><altLabel></altLabel><definition>The process of examining large and varied data sets -- i.e., big data -- to uncover hidden patterns, unknown correlations, market trends, customer preferences and other useful information that can help organizations make more-informed business decisions.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/big-data</uri>
+  <prefLabel>Big data</prefLabel>
+  <altLabel></altLabel>
+  <definition>A term for data sets that are so large or complex that traditional data processing application software is inadequate to deal with them. Challenges include capture, storage, analysis, data curation, search, sharing, transfer, visualization, querying, updating and information privacy.</definition>
+  <note>source is wikipedia in July of 2017</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Big_data</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/bilingual-evaluation-understudy</uri>
+  <prefLabel>Bilingual Evaluation Understudy</prefLabel>
+  <altLabel>BUEU</altLabel>
+  <definition>An algorithm for evaluating the quality of text which has been machine-translated from one natural language to another. Quality is considered to be the correspondence between a machine's output and that of a human: "the closer a machine translation is to a professional human translation, the better it is" – this is the central idea behind BLEU.</definition>
+  <note>BLEU was one of the first metrics to achieve a high correlation with human judgements of quality,[3][4] and remains one of the most popular automated and inexpensive metrics.</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/BLEU</wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/boolean-circuits</uri><prefLabel>Boolean circuits</prefLabel><altLabel></altLabel><definition>A mathematical model for digital logic circuits. A formal language can be decided by a family of Boolean circuits, one circuit for each possible input length.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/chainer</uri>
+  <prefLabel>Chainer</prefLabel>
+  <altLabel></altLabel>
+  <definition>Chainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (a.k.a. dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference. For more details of Chainer, see the documents and resources listed above and join the community in Forum, Slack, and Twitter.</definition>
+  <note></note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri></uri>
+    <prefLabel>Chatbot</prefLabel>
+    <altLabel/>
+    <definition>A computer program that conducts conversations with human users by simulating how
+        humans would behave as a conversational partner. </definition>
+    <broader-prefLabel/>
+    <broader-uri/>
+    <wikipedia-url/>
+    <approval-status-code>draft</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-07-01</approved-date>
+</concept>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-processing/cleansing</uri><prefLabel>Data processing/cleansing</prefLabel><altLabel></altLabel><definition>The process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/cloud-computing</uri><prefLabel>Cloud Computing</prefLabel><altLabel></altLabel><definition>the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/cluster-analysis</uri>
+  <prefLabel>Cluster analysis</prefLabel>
+  <altLabel/>
+  <definition>The task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters). It is a main task of exploratory data mining, and a common technique for statistical data analysis, used in many fields, including machine learning, pattern recognition, image analysis, information retrieval, bioinformatics, data compression, and computer graphics.</definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Cluster_analysis</wikipedia-url>
+  
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/clustering</uri><prefLabel>Clustering</prefLabel><altLabel></altLabel><definition>Statistical classification technique in which cases, data, or objects (events, people, things, etc.) are sub-divided into groups (clusters) such that the items in a cluster are very similar (but not identical) to one another and very different from the items in other clusters.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/cognitive-computing</uri><prefLabel>Cognitive computing</prefLabel><altLabel></altLabel><definition>The simulation of human thought processes in a computerized model. It involves self-learning systems that use data mining, pattern recognition and natural language processing to mimic the way the human brain works.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/computer-science</uri>
+    <prefLabel>Computer Science</prefLabel>
+    <altLabel>CS</altLabel>
+    <definition>The study of the theory, experimentation, and engineering that form the basis for
+        the design and use of computers.</definition>
+    <approval-status-code>draft</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/concept-graph</uri>
+  <prefLabel>Concept graph</prefLabel>
+    <altLabel>Concept map</altLabel>
+    <altLabel>Knowledge graph</altLabel>
+    <altLabel>Knowledge map</altLabel>
+    <altLabel>Conceptual graph</altLabel>
+    <definition>A form of knowledge representation that uses a graph or map to enhance a search
+        engine's search results with semantic-search.</definition>
+    <broader-prefLabel/>
+    <broader-uri/>
+    <wikipedia-url/>
+    <approval-status-code>published</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/conjugate-gradient</uri>
+  <prefLabel>Conjugate Gradient</prefLabel>
+  <altLabel></altLabel>
+  <definition>An algorithm for the numerical solution of particular systems of linear equations, namely those whose matrix is symmetric and positive-definite.</definition>
+  <note>An machine learning algorithm for linear regression.</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Conjugate_gradient_method</wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/conjunctive-concepts</uri><prefLabel>Conjunctive concepts</prefLabel><altLabel>"and" concepts</altLabel><definition>A class of objects having more than one feature in common. Sometimes called "and" concepts: To belong to the concept class, an item must have "This feature and this feature and this feature." </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/connectionism</uri>
+  <prefLabel>Connectionism</prefLabel>
+  <definition>Connectionism is a set of approaches in the fields of artificial intelligence,
+        cognitive psychology, cognitive science, neuroscience, and philosophy of mind, that models
+        mental or behavioral phenomena as the emergent processes of interconnected networks of
+        simple units. </definition>
+  <broader-prefLabel>Machine Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/machine-learning</broader-uri>
+  <approval-status-code>published</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/convolutional-deep-belief-network</uri>
+  <prefLabel>Convolutional Deep Belief Network</prefLabel>
+  <altLabel>CDBN</altLabel>
+  <definition>A type of deep artificial neural network that is composed of multiple layers of convolutional restricted Boltzmann machines stacked together.</definition>
+  <note></note>
+  <broader-prefLabel>Deep Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/deep-learning</broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/convolutional-neural-network</uri>
+    <prefLabel>Convolutional Neural Network</prefLabel>
+    <altLabel>CNN</altLabel>
+    <altLabel>ConvNet</altLabel>
+    <definition>
+        <p>A CNN uses <a href="https://en.wikipedia.org/wiki/Convolution">convolutions</a> to
+            connected extract features from local regions of an input. Most CNNs contain a
+            combination of convolutional, <a href="#pooling">pooling</a> and <a href="#affine-layer"
+                >affine</a> layers. CNNs have gained popularity particularly through their excellent
+            performance on visual recognition tasks, where they have been setting the state of the
+            art for several years.</p>
+        <ul>
+            <li>
+                <a href="http://cs231n.github.io/">Stanford CS231n class – Convolutional Neural
+                    Networks for Visual Recognition</a>
+            </li>
+            <li>
+                <a
+                    href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
+                    > Understanding Convolutional Neural Networks for NLP</a>
+            </li>
+        </ul>
+    </definition>
+    <broader-prefLabel>Deep Learning</broader-prefLabel>
+    <broader-uri>http://mantis.ai/concept/deep-learning</broader-uri>
+    <approval-status-code>draft</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-07-01</approved-date>
+</concept>
+<?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/cost-function</uri>
+  <prefLabel>Cost Function</prefLabel>
+  <altLabel>Loss Function</altLabel>
+  <definition>The function to return a number representing how well the neural network performed to map training examples to correct output.</definition>
+  <note>See https://en.wikipedia.org/wiki/Artificial_neural_network#Learning - but note there is not a specific page in Wikipedia on the cost function.</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/counter-factual-probe</uri>
+  <prefLabel>Counter Factual Probe</prefLabel>
+  <altLabel/>
+  <definition>A process of varying the inputs to and artificial neural network in clever ways to see which changes affect the output, and how.</definition>
+  <note>http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/counterfactual-probe</uri>
+  <prefLabel>Counterfactual Probe</prefLabel>
+  <altLabel/>
+  <definition>A process of varying the inputs to and artificial neural network in clever ways to see which changes affect the output, and how.</definition>
+  <note>http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning&#13;
+Mukund Sundararajan - Google research building counterfactual probes</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-accuracy</uri><prefLabel>Data Accuracy</prefLabel><altLabel></altLabel><definition>Refers to whether the data values stored for an object are the correct values. To be correct, a datavalues must be the right value and must be represented in a consistent and unambiguous form. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-science</uri><prefLabel>Data science</prefLabel><altLabel>Data-driven science</altLabel><definition>An interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-set</uri><prefLabel>Data set</prefLabel><altLabel></altLabel><definition>A collection of related sets of information that is composed of separate elements but can be manipulated as a unit by a computer.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-stream-mining</uri><prefLabel>Data stream mining</prefLabel><altLabel></altLabel><definition>The process of extracting knowledge structures from continuous, rapid data records.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/data-visualization</uri><prefLabel>Data visualization</prefLabel><altLabel></altLabel><definition>Describes any effort to help people understand the significance of data by placing it in a visual context.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/decision-tree</uri><prefLabel>Decision tree</prefLabel><altLabel></altLabel><definition> A decision support tool that uses a tree-like graph or model of decisions and their possible consequences. A decision tree is also a way of visually representing an algorithm.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/deep-belief-network</uri>
+  <prefLabel>Deep Belief Network</prefLabel>
+  <altLabel>DBN</altLabel>
+  <definition></definition>
+  <note></note>
+  <broader-prefLabel>Deep Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/deep-learning</broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/deep-boltzmann-machines</uri>
+  <prefLabel>Deep Boltzmann Machines</prefLabel>
+  <altLabel></altLabel>
+  <definition>A type of stochastic recurrent neural network</definition>
+  <note></note>
+  <broader-prefLabel>Deep Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/deep-learning</broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/deep-feed-forward</uri><prefLabel>Deep Feed Forward</prefLabel><altLabel>DFF</altLabel><definition>An artificial neural network wherein connections between the units do not form a cycle.</definition><note>Class = Neural-Network</note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/deep-learning</uri>
+    <prefLabel>Deep Learning</prefLabel>
+    <altLabel>deep structured learning</altLabel>
+    <altLabel>hierarchical learning</altLabel>
+    <definition>A form of machine learning that uses a neural network with multiple hidden layers.
+    Deep learning algorithms focus on finding non-linear transformation of data between layers
+    of a neural network.</definition>
+    <note>
+        Subset of AI and Machine learning in which Neural networks are “layered”, combined
+        with plenty of computing power, and given a large measure of training data to create
+        extremely powerful learning models capable of processing data in new and exciting ways in a
+        number of areas, e.g. advancing the field of computer vision.
+    </note>
+    <broader-prefLabel>Artificial Intelligence</broader-prefLabel>
+    <broader-uri>http://mantis.ai/concept/artificial-intelligence</broader-uri>
+    <wikipedia-url/>
+    <approval-status-code>published</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-07-01</approved-date>
+</concept>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/deep-neural-network</uri>
+  <prefLabel>Deep Neural Network</prefLabel>
+  <altLabel></altLabel>
+  <definition></definition>
+  <note></note>
+  <broader-prefLabel>Deep Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/deep-learning</broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/deepmind</uri><prefLabel>DeepMind</prefLabel><altLabel>Deep structured learning </altLabel><definition>the application to learning tasks of artificial neural networks (ANNs) that contain more than one hidden layer.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/dependent-variable</uri><prefLabel>Dependent variable</prefLabel><altLabel></altLabel><definition>A variable (often denoted by y ) whose value depends on that of another.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/descriptive-model</uri><prefLabel>Descriptive Model</prefLabel><altLabel></altLabel><definition>A summary of a dataset that describes its main features and quantifies relationships in the data. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/epoch</uri><prefLabel>Epoch</prefLabel><altLabel></altLabel><definition>A measure of the number of times all of the training vectors are used once to update the weights.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/feature-scaling</uri>
+  <prefLabel>Feature Scaling</prefLabel>
+  <altLabel>Data Normalization</altLabel>
+  <definition>A method used to standardize the range of independent variables or features of data.</definition>
+  <note>Feature scaling is generally performed during the data preprocessing step.  In Machine Learning gradient descent converges much faster with feature scaling.  Typical ranges for values of a feature are from -1 to 1.</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Feature_scaling</wikipedia-url>
+  <approval-status-code>published</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/feedforward-neural-network</uri><prefLabel>Feedforward neural network</prefLabel><altLabel></altLabel><definition>An artificial neural network wherein connections between the units do not form a cycle.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/gated-recurrent-unit</uri><prefLabel>Gated Recurrent Unit</prefLabel><altLabel></altLabel><definition>A gating mechanism in recurrent neural networks, introduced in 2014. Their performance on polyphonic music modeling and speech signal modeling was found to be similar to that of long short-term memory. They have fewer parameters than LSTM, as they lack an output gate.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/generalized-additive-model</uri>
+  <prefLabel>Generalized Additive Model</prefLabel>
+  <altLabel>GAM</altLabel>
+  <definition>A generalized linear model in which the linear predictor depends linearly on unknown smooth functions of some predictor variables, and interest focuses on inference about these smooth functions</definition>
+  <note>http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Generalized_additive_model</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/generative-adversarial-network</uri>
+  <prefLabel>Generative adversarial network</prefLabel>
+  <altLabel>GAN</altLabel>
+  <definition>A type of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework.</definition>
+  <note/>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Generative_adversarial_networks</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/genetic-algorithm</uri><prefLabel>Genetic algorithm</prefLabel><altLabel></altLabel><definition>A search method that can be used for both solving problems and modeling evolutionary systems.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/gnu-octave</uri>
+  <prefLabel>GNU Octave</prefLabel>
+  <altLabel>Octave</altLabel>
+  <definition>Octave is an open source high-level language, primarily intended for numerical computations. It provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab. It may also be used as a batch-oriented language.&#13;
+</definition>
+  <note>Octave is frequently used as a way to do prototypes of machine learning algorithms.&#13;
+&#13;
+https://www.gnu.org/software/octave/&#13;
+&#13;
+Tutorial: https://en.wikibooks.org/wiki/Octave_Programming_Tutorial&#13;
+&#13;
+Class=Development tool</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/GNU_Octave</wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source>https://www.gnu.org/software/octave/&#13;
+</source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/gradient-decent</uri>
+  <prefLabel>Gradient Decent</prefLabel>
+  <altLabel/>
+  <definition>A first-order iterative optimization algorithm for finding the minimum of a function. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or of the approximate gradient) of the function at the current point.</definition>
+  <note>Batch gradient decent uses ALL the training examples.  You  can solve the gradient decent problem directly with linear algebra without using iteration.  This is call the "normal method", however, that is computationally intensive and does not scale well with large data sets.</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Gradient_descent</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/hidden-markov-model</uri>
+  <inScheme>Deep Learning</inScheme>
+  <prefLabel>Hidden Markov Model</prefLabel>
+  <altLabel>HMM</altLabel>
+  <definition>A statistical Markov model in which the system being modeled is assumed to be a
+        Markov process with unobserved (hidden) states. An HMM can be presented as the simplest
+        dynamic Bayesian network. The mathematics behind the HMM were developed by L. E. Baum and
+        coworkers.</definition>
+
+  <!-- used for search -->
+  <broader-prefLabel>Machine Learning</broader-prefLabel>
+  <broader-uri>http://mantis.ai/concept/machine-learning</broader-uri>
+
+  <source>Wikipedia</source>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Hidden_Markov_model</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/hierarchical-classification</uri>
+  <prefLabel>Hierarchical Classification</prefLabel>
+  <altLabel></altLabel>
+  <definition>A multiclass classification problem utilizes a that uses a hierarchical division of the output space.  Each leaf node contains a single class.</definition>
+  <note>The output classes are arranged into a tree.&#13;
+The tree is created such that the classes at each parent node are divided into a&#13;
+number of clusters, one for each child node. The process continues until the leaf&#13;
+nodes contain only a single class. At each node of the tree, a simple classifier,&#13;
+usually a binary classifier, makes the discrimination between the different child&#13;
+class clusters. Following a path from the root node to a leaf node leads to&#13;
+a classification of a new pattern. S</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source>https://www.cs.utah.edu/~piyush/teaching/aly05multiclass.pdf</source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/hopfield-network</uri><prefLabel>Hopfield Network</prefLabel><altLabel></altLabel><definition>A form of recurrent artificial neural network popularized by John Hopfield in 1982, but described earlier by Little in 1974. Hopfield nets serve as content-addressable memory systems with binary threshold nodes.</definition><note>Class = Neural-Network</note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/hyperparameter</uri>
+  <prefLabel>Hyperparameter</prefLabel>
+  <altLabel/>
+  <definition>A higher level machine learning parameter whose values are set prior to the start of the learning process. By contrast, the value of other parameters is derived via training. These parameters guide the learning process and control variables such as its complexity or how fast the model should learn.</definition>
+  <note>https://www.quora.com/What-are-hyperparameters-in-machine-learning Define higher level concepts about the model such as complexity, or capacity to learn. Cannot be learned directly from the data in the standard model training process and need to be predefined. Can be decided by setting different values, training different models, and choosing the values that test better Some examples of hyperparameters: Number of leaves or depth of a tree Number of latent factors in a matrix factorization Learning rate (in many models) Number of hidden layers in a deep neural network Number of clusters in a k-means clustering</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/independent-variable</uri><prefLabel>Independent variable</prefLabel><altLabel></altLabel><definition>A variable (often denoted by x ) whose variation does not depend on that of another.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/inductive-reasoning</uri><prefLabel>Inductive Reasoning</prefLabel><altLabel></altLabel><definition>The ability to derive key generalized conclusions or theories by analyzing patterns in a large data set.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/inference-engine</uri><prefLabel>Inference Engine</prefLabel><altLabel></altLabel><definition>A component of the system that applies logical rules to the knowledge base to deduce new information. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/information-retrieval</uri><prefLabel>Information Retrieval</prefLabel><altLabel>IR</altLabel><definition>The activity of obtaining information resources relevant to an information need from a collection of information resources.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/initialization</uri><prefLabel>Initialization</prefLabel><altLabel></altLabel><definition>The assignment of an initial value for a data object or variable.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/interence</uri>
+  <prefLabel>Interence</prefLabel>
+  <altLabel></altLabel>
+  <definition>In the context of AI, inference is the process of applying new data to a pre-trained neural network.  Inference is where capabilities learned during deep learning training are put to work.</definition>
+  <note>Note that the Wikipedia articel on Inference &#13;
+https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url></wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/jitter</uri><prefLabel>Jitter</prefLabel><altLabel></altLabel><definition>Measuring time difference in packet inter-arrival time.&#13;
+&#13;
+</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/k-nearest-neighbor-algorithm</uri>
+  <prefLabel>K-Nearest-neighbor algorithm</prefLabel>
+  <altLabel/>
+  <definition>A non-parametric method used for classification and regression in pattern recognition. In both cases, the input consists of the k closest training examples in the feature space. </definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm</wikipedia-url>
+  <approval-status-code>draft</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/labeled-data</uri>
+  <prefLabel>Labeled Data</prefLabel>
+  <altLabel/>
+  <definition>Any data set that has the "right answer" associated with a record.  By right answer it is usually a descriptive language text such as a "tag", "class", "label" or sometimes an amount.</definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/learning-rate</uri>
+  <prefLabel>Learning Rate</prefLabel>
+  <altLabel/>
+  <definition>A value used by a learning algorithm to determine how quickly the weights are adjusted. In gradient decent the learning rate determines how large a step the algorithm takes to calculate a new cost function. A learning rate might be adjusted as learning progresses.</definition>
+  <note>The symbol for a learning rate is the greek letter alpha.&#13;
+In Q-Learning the definition is very specific: https://en.wikipedia.org/wiki/Q-learning#Learning_rate</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/linear-regression</uri>
+  <prefLabel>Linear Regression</prefLabel>
+  <altLabel/>
+  <definition>An approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables) denoted X. The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.</definition>
+  <note/>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Linear_regression</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/lstms</uri><prefLabel>LSTMs</prefLabel><altLabel>Long Short-Term Memory</altLabel><definition>An artificial neural network architecture that supports machine learning.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/machine-learning</uri>
+  <prefLabel>Machine Learning</prefLabel>
+  <altLabel/>ML<definition>A field of computer science that enables the ability to learn without being
+        explicitly programmed.</definition>
+  <broader>Computer Science</broader>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Machine_learning</wikipedia-url>
+  <approval-status-code>approved</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-06-05</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/markov-chain-monte-carlo</uri>
+  <prefLabel>Markov Chain Monte Carlo</prefLabel>
+    <altLabel>MCMC</altLabel>
+    <definition>a class of algorithms for sampling from a probability distribution based on
+        constructing a Markov chain that has the desired distribution as its equilibrium
+        distribution. The state of the chain after a number of steps is then used as a sample of the
+        desired distribution. The quality of the sample improves as a function of the number of
+        steps.</definition>
+    <broader-prefLabel/>
+    <broader-uri/>
+    <wikipedia-url>https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo</wikipedia-url>
+    <entity/>
+    <property-of/>
+    <relationship/>
+    <source/>
+    <scope/>
+    <approval-status-code>published</approval-status-code>
+    <approved-by>dmccreary</approved-by>
+    <approved-date>2017-06-07</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/markov-chain</uri><prefLabel>Markov Chain</prefLabel><altLabel>MC</altLabel><definition>A stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event.</definition><note>Class = Neural-Network</note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/mean-normalization</uri>
+  <prefLabel>Mean Normalization</prefLabel>
+  <altLabel>Normalization of Ratings Means</altLabel>
+  <definition>Adjusting values measured on different scales to a notionally common scale, often prior to averaging.</definition>
+  <note></note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Normalization_(statistics)</wikipedia-url>
+  <approval-status-code>published</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-07-01</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/mean-squared-error</uri>
+  <prefLabel>Mean Squared Error</prefLabel>
+  <altLabel>MSE</altLabel>
+  <definition>An estimator (of a procedure for estimating an unobserved quantity) measures the average of the squares of the errors or deviations—that is, the difference between the estimator and what is estimated. MSE is a risk function, corresponding to the expected value of the squared error loss or quadratic loss. The difference occurs because of randomness or because the estimator doesn't account for information that could produce a more accurate estimate.</definition>
+  <note/>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Mean_squared_error</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/meta-learning</uri><prefLabel>Meta-learning</prefLabel><altLabel></altLabel><definition>Awareness and understanding of the phenomenon of learning itself as opposed to subject knowledge. In the context of Machine Learning, this is the process of learning to learn.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/monotonicity</uri>
+  <prefLabel>Monotonicity</prefLabel>
+  <altLabel/>
+  <definition>A relationship between variables in which, all else being equal, increasing one variable directly increases another, Used to help understand why artificial neural networks produce specific results.</definition>
+  <note>http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning&#13;
+&#13;
+Gupta embeds those monotonic relationships in sprawling databases called interpolated lookup tables. In essence, they’re like the tables in the back of a high school trigonometry textbook where you’d look up the sine of 0.5. But rather than dozens of entries across one dimension, her tables have millions across multiple dimensions. She wires those tables into neural networks, effectively adding an extra, predictable layer of computation—baked-in knowledge that she says will ultimately make the network more controllable.</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/multiclass-classification</uri>
+  <prefLabel>Multiclass Classification</prefLabel>
+  <altLabel>Multinomial classification</altLabel>
+  <definition>The problem of classifying instances into one of the more than two classes (classifying instances into one of the two classes is called binary classification).</definition>
+  <note>Similar but different from multi-label classification.</note>
+  <broader-prefLabel></broader-prefLabel>
+  <broader-uri></broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Multiclass_classification</wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/multilayer-perceptron-2</uri>
+  <prefLabel>Multilayer Perceptron 2</prefLabel>
+  <altLabel>MLP</altLabel>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/multilayer-perceptron</uri>
+  <prefLabel>Multilayer perceptron</prefLabel>
+  <alt-lable>MLP</alt-lable>
+  <definition> A class of feedforward artificial neural network. An MLP consists of at least three
+        layers of nodes. Except for the input nodes, each node is a neuron that uses a nonlinear
+        activation function.</definition>
+  <broader> </broader>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/natural-language-generation</uri><prefLabel>Natural Language Generation</prefLabel><altLabel>NLG</altLabel><definition>The natural language processing task of generating natural language from a machine representation system such as a knowledge base or a logical form.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/natural-language-processing-</uri><prefLabel>Natural Language Processing </prefLabel><altLabel>NLP</altLabel><definition>the ability of a computer program to understand human speech as it is spoken.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/network-effect</uri><prefLabel>Network Effect</prefLabel><altLabel>Demand-side economies</altLabel><definition>the effect that one user of a good or service has on the value of that product to other people.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <prefLabel>Neural Designer</prefLabel>
+    <definition> is a software tool for data analytics based on neural networks, a main area of
+        artificial intelligence research.[1] It has been developed from the open source library
+        OpenNN,[2] and contains a graphical user interface which simplifies data entry and
+        interpretation of results. </definition>
+</concept> 
+<concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/neuroevolution</uri><prefLabel>Neuroevolution</prefLabel><altLabel></altLabel><definition>A form of machine learning that uses evolutionary algorithms to train artificial neural networks. It is most commonly applied in artificial life, computer games, and evolutionary robotics.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/norm</uri>
+  <prefLabel>Norm</prefLabel>
+  <altLabel/>
+  <definition>A function that assigns a strictly positive length or size to each vector in a vector space—save for the zero vector, which is assigned a length of zero. A seminorm, on the other hand, is allowed to assign zero length to some non-zero vectors (in addition to the zero vector).</definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Norm_(mathematics)</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/ontology</uri><prefLabel>Ontology</prefLabel><altLabel></altLabel><definition>A formal naming and definition of the types, properties, and interrelationships of the entities that really or fundamentally exist for a particular domain of discourse. It is thus a practical application of philosophical ontology, with a taxonomy.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><prefLabel>Overfitting</prefLabel><altLabel></altLabel><definition>A machine learning problem whereby an algorithm is unable to discern information relevant to its assigned task from information which is irrelevant to its assigned task within training data. Overfitting therefore inhibits the algorithm’s predictive performance when dealing with new data. </definition><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/parameter</uri><prefLabel>Parameter</prefLabel><altLabel></altLabel><definition>Characteristic that can be used to help define or classify a system such as as event, thing, person, project or situation.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/pattern-recognition</uri><prefLabel>Pattern recognition</prefLabel><altLabel></altLabel><definition>A branch of machine learning that focuses on the recognition of patterns and regularities in data.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/predictive-analytics</uri><prefLabel>Predictive Analytics</prefLabel><altLabel></altLabel><definition>The practice of extracting information from existing data sets in order to determine patterns and predict future outcomes and trends.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/predictive-model</uri><prefLabel>Predictive Model</prefLabel><altLabel></altLabel><definition>A model that uses observations measured in a sample to predict the probability that a different sample or remainder of the population will exhibit the same behavior or have the same outcome.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/principal-component-analysis</uri>
+  <prefLabel>Principal-component analysis</prefLabel>
+  <altLabel>PCA</altLabel>
+  <definition>A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components (or sometimes, principal modes of variation). </definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Principal_component_analysis</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/pruning</uri><prefLabel>Pruning</prefLabel><altLabel></altLabel><definition>The process of removing sections of decision trees that provide little power to classify instances (the occurrence of something). </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/question-answering-</uri>
+  <prefLabel>Question answering </prefLabel>
+  <altLabel>QA</altLabel>
+  <definition>A computer science discipline within the fields of information retrieval and natural language processing (NLP), which is concerned with building systems that automatically answer questions posed by humans in a natural language.</definition>
+  <note></note>
+  <broader-prefLabel>Computer Science</broader-prefLabel>
+  <broader-uri>https://mantis.ai/concept/computer-science</broader-uri>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Question_answering</wikipedia-url>
+  <entity></entity>
+  <property-of></property-of>
+  <relationship></relationship>
+  <source></source>
+  <scope></scope>
+  <approval-status-code></approval-status-code>
+  <approved-by></approved-by>
+  <approved-date></approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/radial-basis-function-network</uri><prefLabel>Radial Basis Function Network</prefLabel><altLabel>RBFN</altLabel><definition>An artificial neural network that uses radial basis functions as activation functions.</definition><note>class = Neural-Networks</note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/random-forest</uri><prefLabel>Random Forest</prefLabel><altLabel></altLabel><definition>An ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/regression</uri><prefLabel>Regression</prefLabel><altLabel></altLabel><definition>A statistical measure used to determine the strength of the relationships between dependent and independent variables.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/reinforcement-learning</uri><prefLabel>Reinforcement Learning</prefLabel><altLabel></altLabel><definition>A type of machine learning in which machines are “taught” to achieve their target function through a process of experimentation and reward. In reinforcement learning, the machine receives positive reinforcement when its processes produce the desired result, and negative reinforcement when they do not.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/semantic-computing</uri><prefLabel>Semantic computing</prefLabel><altLabel></altLabel><definition>The study of understanding how different elements of data relate to one another and using these relationships to draw conclusions about the meaning, content, and structure of data sets.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/semantic-nets</uri><prefLabel>Semantic Nets</prefLabel><altLabel></altLabel><definition>It is a directed or undirected graph consisting of vertices, which represent concepts, and edges, which represent semantic relations between concepts.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/seq2seq</uri>
+  <prefLabel>seq2seq</prefLabel>
+  <altLabel>tf-seq2seq</altLabel>
+  <definition>A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.</definition>
+  <note>https://google.github.io/seq2seq/</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/singular-value-decomposition</uri>
+  <prefLabel>Singular value decomposition</prefLabel>
+  <altLabel/>
+  <definition>A factorization of a real or complex matrix. It is the generalization of the eigen decomposition of a positive semidefinite normal matrix (for example, a symmetric matrix with positive eigenvalues) to any {\displaystyle m\times n} m\times n matrix via an extension of the polar decomposition. It has many useful applications in signal processing and statistics. </definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Singular_value_decomposition</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/speech-recognition</uri><prefLabel>Speech Recognition</prefLabel><altLabel></altLabel><definition>The inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/stream-mining</uri><prefLabel>Stream Mining</prefLabel><altLabel></altLabel><definition>The process of extracting knowledge structures from continuous, rapid data records.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/stride</uri><prefLabel>Stride</prefLabel><altLabel></altLabel><definition>A certain amount that slides a path selection towards the right, or downwards when the boundary of the matrix is reached. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/supervised-learning</uri>
+  <prefLabel>Supervised learning</prefLabel>
+    <altLabel/>
+    <definition>The machine learning task of inferring a function from labeled training data. The
+        training data consist of a set of training examples. In supervised learning, each example is
+        a pair consisting of an input object (typically a vector) and a desired output value (also
+        called the supervisory signal). A supervised learning algorithm analyzes the training data
+        and produces an inferred function, which can be used for mapping new examples.</definition>
+    <broader-uri/>
+    <broader-perfLabel/>
+    <related-url>Labeled training data</related-url>
+    <note>Labed data is where the "right answers" are given.</note>
+    <entity/>
+    <property-of/>
+    <relationship/>
+    <wikipedia-url>https://en.wikipedia.org/wiki/Supervised_learning</wikipedia-url>
+    <approval-status-code>draft</approval-status-code>
+    <approved-by/>
+    <approved-date>2017-06-07</approved-date>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/support-vector-machine</uri>
+  <prefLabel>Support vector machine</prefLabel>
+  <altLabel>SVM</altLabel>
+  <definition>A supervised learning model with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier.</definition>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url>https://en.wikipedia.org/wiki/Support_vector_machine</wikipedia-url>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code>published</approval-status-code>
+  <approved-by>dmccreary</approved-by>
+  <approved-date>2017-06-07</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/swarm-intelligence</uri><prefLabel>Swarm Intelligence</prefLabel><altLabel></altLabel><definition>An approach to artificial intelligence that is based on the idea that when individual agents come together, the interactions between them lead to the emergence of a more ‘intelligent’ collective behavior. It stems from the natural behavior of animals such as bees, which combine into swarms to work more intelligently.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/symbolic-artificial-intelligence</uri>
+  <prefLabel>Symbolic Artificial Intelligence</prefLabel>
+  <alt-lable>Symbolic Machine Learning</alt-lable>
+  <definition>Symbolic artificial intelligence is the collective name for all methods in artificial intelligence research that are based on high-level "symbolic" (human-readable) representations of problems, logic and search.</definition>
+  <broader>Artificial Intelligence https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence</broader>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/target-function</uri><prefLabel>Target function</prefLabel><altLabel></altLabel><definition>The specific task an AI or learning machine has been designed and programmed to complete.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/technological-singularity</uri><prefLabel>Technological Singularity</prefLabel><altLabel></altLabel><definition>The hypothesis that the invention of artificial superintelligence will abruptly trigger runaway technological growth, resulting in unfathomable changes to human civilization.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <uri>http://mantis.ai/concept/tensorflow</uri>
+  <prefLabel>TensorFlow</prefLabel>
+    <altLabel/>
+    <definition>An open source software library for machine learning across a range of tasks, and
+        developed by Google to meet their needs for systems capable of building and training neural
+        networks to detect and decipher patterns and correlations, analogous to the learning and
+        reasoning which humans use.</definition>
+    <broader-prefLabel/>
+    <broader-uri/>
+    <wikipedia-url>https://en.wikipedia.org/wiki/TensorFlow</wikipedia-url>
+    <entity/>
+    <property-of/>
+    <relationship/>
+    <source/>
+    <scope/>
+    <approval-status-code>published</approval-status-code>
+    <approved-by/>
+    <approved-date>2017-06-07</approved-date>
+</concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/text-classification</uri><prefLabel>Text Classification</prefLabel><altLabel></altLabel><definition>Text Classification assigns one or more classes to a document according to their content.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/text-data-mining</uri><prefLabel>Text data mining</prefLabel><altLabel></altLabel><definition>The process of deriving high-quality information from text. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+  <uri>http://mantis.ai/concept/the-interpretability-problem</uri>
+  <prefLabel>The Interpretability Problem</prefLabel>
+  <altLabel>Why, model, why</altLabel>
+  <definition>The problem with many complex machine learning models is that they cannot explain why specific outcomes are produced.</definition>
+  <note>http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning https://medium.com/intuitionmachine/the-only-way-to-make-deep-learning-interpretable-is-to-have-it-explain-itself-1e874a73108f See also Occan’s Razor Why, model, why?&#13;
+Explainable AI</note>
+  <broader-prefLabel/>
+  <broader-uri/>
+  <wikipedia-url/>
+  <entity/>
+  <property-of/>
+  <relationship/>
+  <source/>
+  <scope/>
+  <approval-status-code/>
+  <approved-by/>
+  <approved-date/>
+</concept><?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#">
+    <prefLabel>Torch</prefLabel>
+    <alt-lable/>
+    <definition>An open source machine learning library, a scientific computing framework, and a
+        script language based on the Lua programming language</definition>
+    <broader> </broader>
+    <entity/>
+    <property-of/>
+    <relationship/>
+    <source/>
+    <scope/>
+    <approval-status-code/>
+    <approved-by/>
+    <approved-date/>
+</concept>
+<concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/turing-test</uri><prefLabel>Turing Test</prefLabel><altLabel></altLabel><definition>&#13;
+A test developed by Alan Turing 1950, which is meant as a means to identify true artificial intelligence.&#13;
+The test is based on a process in which a series of judges attempt to discern interactions with a control (human) from interactions with the machine (computer) being tested.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/unstructured-data</uri><prefLabel>Unstructured data</prefLabel><altLabel>Unstructured Information</altLabel><definition>Information that either does not have a pre-defined data model or is not organized in a pre-defined manner.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/unsupervised-learning</uri><prefLabel>Unsupervised Learning</prefLabel><altLabel></altLabel><definition>A type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/voice-biometrics</uri><prefLabel>Voice Biometrics</prefLabel><altLabel></altLabel><definition>The technology used to extract personal voice patterns and verify speaker identity using just voice.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/voice-user-interface</uri><prefLabel>Voice User Interface</prefLabel><altLabel>VUI</altLabel><definition>The ability to create human/computer interaction through a voice/speech platform in order to initiate an automated service or process. </definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept><concept xmlns="http://www.w3.org/2004/02/skos/core#"><uri>http://mantis.ai/concept/weights</uri><prefLabel>Weights</prefLabel><altLabel></altLabel><definition>The strength or amplitude of a connection between two nodes, corresponding in biology to the amount of influence the firing of one neuron has on another. The term is typically used in artificial and biological neural network research.</definition><note></note><broader-prefLabel></broader-prefLabel><broader-uri></broader-uri><wikipedia-url></wikipedia-url><entity></entity><property-of></property-of><relationship></relationship><source></source><scope></scope><approval-status-code></approval-status-code><approved-by></approved-by><approved-date></approved-date></concept>
