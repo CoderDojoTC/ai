@@ -2,7 +2,13 @@ site_name: 'CoderDojo TC AI'
 nav:
   - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
   - CoderDojo TC AI: index.md
+  - Hands-On Labs:
+    - Introduction: index.md
+    - Quick, Draw: labs/quickdraw.md
+    - Teachable Machine: labs/teachable-machine.md
+    - Bias in BERT: labs/bert.md
   - Resources: resources.md
+  - Quotes: quotes.md
   - Contact: contact.md
 
 site_description: 'Resources for teaching AI to CoderDojo Twin Cities students.'

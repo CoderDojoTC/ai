@@ -1,5 +1,6 @@
 # Teaching AI Concepts to Students 8-18
-A repository for mentors that would like to teach AI to kids 8-18.
+
+A repository for mentors who would like to teach AI to kids 8-18.  It contains lesson plans and resources to make understanding AI, Machine Learning and Prediction fun and easy to understand for a wide variety of ages and backgrounds.
 
 ## Key Concepts
 Here are some key concepts we will be learning in this course.  Theses
