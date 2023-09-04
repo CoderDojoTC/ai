@@ -3,13 +3,15 @@ nav:
   - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
   - CoderDojo TC AI: index.md
   - Hands-On Labs:
-    - Introduction: index.md
+    - Introduction: labs/index.md
     - Quick, Draw: labs/quickdraw.md
     - Teachable Machine: labs/teachable-machine.md
     - Bias in BERT: labs/bert.md
     - Generative AI: labs/generative-ai.md
+    - Hugging Face: labs/huggingface.md
     - Llama: labs/llama.md
     - Trends: labs/trends.md
+  - Glossary: glossary.md
   - Resources: resources.md
   - Quotes: quotes.md
   - Contact: contact.md
