@@ -17,7 +17,7 @@
     
     
       
-        <title>Trends - CoderDojo TC AI</title>
+        <title>TensorFlow Playground - CoderDojo TC AI</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#trends" class="md-skip">
+        <a href="#tensorflow-playground" class="md-skip">
           Skip to content
         </a>
       
@@ -99,7 +99,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Trends
+              TensorFlow Playground
             
           </span>
         </div>
@@ -236,14 +236,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
       
       
       
@@ -362,79 +360,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Trends
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../trends/" class="md-nav__link">
         Trends
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#background-moores-law" class="md-nav__link">
-    Background: Moore's Law
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#open-llm-leaderboard" class="md-nav__link">
-    Open LLM Leaderboard
-  </a>
-  
-    <nav class="md-nav" aria-label="Open LLM Leaderboard">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sample-ai-question-with-a-four-choice-answer" class="md-nav__link">
-    Sample AI Question with a Four-Choice Answer
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#potting-progress" class="md-nav__link">
-    Potting Progress
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -533,36 +463,43 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#background-moores-law" class="md-nav__link">
-    Background: Moore's Law
+  <a href="#starting-simple" class="md-nav__link">
+    Starting Simple
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#open-llm-leaderboard" class="md-nav__link">
-    Open LLM Leaderboard
+  <a href="#basic-concepts" class="md-nav__link">
+    Basic Concepts
   </a>
   
-    <nav class="md-nav" aria-label="Open LLM Leaderboard">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-simplified-user-interface" class="md-nav__link">
+    A Simplified User Interface
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#single-neuron" class="md-nav__link">
+    Single Neuron
+  </a>
+  
+    <nav class="md-nav" aria-label="Single Neuron">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#sample-ai-question-with-a-four-choice-answer" class="md-nav__link">
-    Sample AI Question with a Four-Choice Answer
+  <a href="#single-exercise" class="md-nav__link">
+    Single Exercise
   </a>
   
 </li>
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#potting-progress" class="md-nav__link">
-    Potting Progress
-  </a>
   
 </li>
       
@@ -578,38 +515,45 @@
             <article class="md-content__inner md-typeset">
               
                 
-  <a href="https://github.com/CoderDojoTC/ai/blob/master/docs/labs/trends.md" title="Edit this page" class="md-content__button md-icon">
+  <a href="https://github.com/CoderDojoTC/ai/blob/master/docs/labs/tensorflow-playground/index.md" title="Edit this page" class="md-content__button md-icon">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
   </a>
 
 
 
-<h1 id="trends">Trends</h1>
-<p>In this lab, we will ask students to think about some of the trends
-that will have the most impact on their careers and their lives.</p>
-<p>Key Questions for this lab:</p>
+<h1 id="tensorflow-playground">TensorFlow Playground</h1>
+<p>In this lab, we will use the Google TensorFlow Playground web application to build very small neural networks.  Our goal is to get a high-level feeling of what neural networks are and how they transform data in layers.</p>
+<p>The TensorFlow Playground web application is here:</p>
+<p><a href="https://playground.tensorflow.org/">https://playground.tensorflow.org/</a></p>
+<h2 id="starting-simple">Starting Simple</h2>
+<p>The best way to start this class is to start with a very simple dataset and see if we can create a simple neural network to determine if an item is in one of two classifications.  Once we understand this process, we will make the datasets more complicated and also increase the complexity of the neural network.</p>
+<h2 id="basic-concepts">Basic Concepts</h2>
 <ol>
-<li>What are the key trends in AI?</li>
-<li>What is Moore's Law?</li>
-<li>What is linear growth vs. exponential growth?</li>
-<li>What types of jobs will AI influence?</li>
-<li>What is a knowledge worker?</li>
+<li>Training Data - data we build the neural network with</li>
+<li>Test Data - data we evaluate how good our neural network is</li>
+<li>The Ratio of Train to Test - the relative size of the data sets.  The default ratio is 50%</li>
+<li>Epoch - one complete pass through all the training data</li>
 </ol>
-<h2 id="background-moores-law">Background: Moore's Law</h2>
-<h2 id="open-llm-leaderboard">Open LLM Leaderboard</h2>
-<p>Look at the following site:</p>
-<p><a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">Open LLM Leaderboard</a></p>
-<p>Note that if you are given a multiple-choice test with four possible answers, and you randomly guessed one answer, you would have a 25% chance of being correct.  That is why the "baseline" of the leaderboard is 25.</p>
-<h3 id="sample-ai-question-with-a-four-choice-answer">Sample AI Question with a Four-Choice Answer</h3>
-<p>"Question: Cities control the amount of pollution that is allowed to come from cars. How does this most likely help people? Answer:"</p>
+<h2 id="a-simplified-user-interface">A Simplified User Interface</h2>
+<p><a href="https://playground.tensorflow.org/#activation=linear&amp;batchSize=10&amp;dataset=gauss&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=5&amp;networkShape=1&amp;seed=0.07855&amp;showTestData=false&amp;discretize=true&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false&amp;showTestData_hide=true&amp;stepButton_hide=false&amp;activation_hide=true&amp;problem_hide=true&amp;noise_hide=true&amp;discretize_hide=true&amp;resetButton_hide=true&amp;regularization_hide=true&amp;dataset_hide=true&amp;batchSize_hide=true&amp;playButton_hide=true&amp;learningRate_hide=true&amp;regularizationRate_hide=true&amp;percTrainData_hide=true&amp;numHiddenLayers_hide=true">Simplified UI With Just the Step UI</a></p>
+<h2 id="single-neuron">Single Neuron</h2>
+<p><img alt="" src="single-neuron.png" /></p>
+<p>Click the "Reset the Network" button in the upper left corner:</p>
+<p><img alt="" src="reset-the-network.png" /></p>
+<p>Note what test loss and training loss are after you do this:</p>
+<p><img alt="" src="test-loss-training-loss.png" /></p>
+<p>This says you are getting a 50% chance of getting the answers correct.</p>
+<p>Change the weight of the second link to be 10.  You should see the width of the line get much larger:</p>
+<p><img alt="" src="weight-width.png" /></p>
+<p>Press the Step button and note the change in the Output:</p>
+<p><img alt="Step" src="step.png" /></p>
+<h3 id="single-exercise">Single Exercise</h3>
 <ol>
-<li>The air stays cleaner.</li>
-<li>Cars can travel at faster speeds.</li>
-<li>The skills of the drivers improve.</li>
-<li>It becomes safer to drive on the roads.</li>
+<li>How many steps does it take for the "Test loss" to drop below 0.01?</li>
+<li>Regenerate the initial values several times.  How do the initial values impace the speed to lower the loss function?</li>
+<li>Turn the noise up to 10.  What happens when the data is "dirty"?</li>
+<li>Click the "show test data" button.</li>
 </ol>
-<h2 id="potting-progress">Potting Progress</h2>
-<p><a href="https://contextual.ai/plotting-progress-in-ai/">Contextual AI Plotting Progress</a></p>
 
               
             </article>
@@ -620,41 +564,6 @@ that will have the most impact on their careers and their lives.</p>
       
         
   <footer class="md-footer">
-    
-      <div class="md-footer-nav">
-        <nav class="md-footer-nav__inner md-grid">
-          
-            <a href="../llama/" title="Llama" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-              <div class="md-flex__cell md-flex__cell--shrink">
-                <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
-              </div>
-              <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-                <span class="md-flex__ellipsis">
-                  <span class="md-footer-nav__direction">
-                    Previous
-                  </span>
-                  Llama
-                </span>
-              </div>
-            </a>
-          
-          
-            <a href="../../glossary/" title="Glossary" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-              <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-                <span class="md-flex__ellipsis">
-                  <span class="md-footer-nav__direction">
-                    Next
-                  </span>
-                  Glossary
-                </span>
-              </div>
-              <div class="md-flex__cell md-flex__cell--shrink">
-                <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-              </div>
-            </a>
-          
-        </nav>
-      </div>
     
     <div class="md-footer-meta md-typeset">
       <div class="md-footer-meta__inner md-grid">
