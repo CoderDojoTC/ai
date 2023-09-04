@@ -7,6 +7,9 @@ nav:
     - Quick, Draw: labs/quickdraw.md
     - Teachable Machine: labs/teachable-machine.md
     - Bias in BERT: labs/bert.md
+    - Generative AI: labs/generative-ai.md
+    - Llama: labs/llama.md
+    - Trends: labs/trends.md
   - Resources: resources.md
   - Quotes: quotes.md
   - Contact: contact.md

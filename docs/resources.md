@@ -2,7 +2,7 @@
 We aspire to have a collection of AI activities for students
 that are both safe and fun.  There are many AI demos available
 but many of them are trained on a wide range of data that could
-include adult content.  So we need to be cautious before we recomend
+include adult content.  So we need to be cautious before we recommend
 a specific site.
 
 With that said, here are some demonstrations that can be both safe and
@@ -10,13 +10,15 @@ fun.  We hope you will try them out and let us know what activities are
 useful in your mentoring and classrooms.
 
 #### Quickdraw (with Google)
-This fun game challenges kids to draw a picure of a named item.  The students
+This fun game challenges kids to draw a picture of a named item.  The students
 have 20 seconds to draw the item.  As they draw the computer says "I see X"
 or "I see Y".  If the computer guesses correctly you go on to the next item.
 You get six items in a session.  Sample items are cup, clock, cellphone, lighthouse, bear etc.
-[QuickDraw](https://quickdraw.withgoogle.com/)
+
+* [QuickDraw website](https://quickdraw.withgoogle.com/)
 
 #### Teachable Machine
+
 This Google site is a great way to teach simple machine learning to students.
 Although it works on images and sounds, we use it mostly in the image mode.
 The site assumes you have a web camera and can hold items up to the camera for
@@ -25,25 +27,28 @@ a book and see if the computer can learn the images and then classify a new
 image.
 [Teachable Machine](https://teachablemachine.withgoogle.com)
 
-#### Google Tensorflow Playground
+#### Google TensorFlow Playground
+
 This site is excellent for helping you visualize
 how neural networks classify object.  The interactive
 tool allows you to change the number of neurons and
 layers in a neural network and see how these changes
 impact a simple classifier.
-[Google Tensorflow Playground](http://playground.tensorflow.org/)
+
+* [Google TensorFlow Playground](http://playground.tensorflow.org/)
 
 #### AI and Ethics for Middle School
-This is a cirriculum designed by MIT professor Blakeley H. Payne.
-The cirriculum focuses on topics such as training, classification and bias.
-<br/>
-[AI for Middle School (Course Description()](https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/)
-<br/>
-[AI for Middle School (Google Docs)](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
+
+This is a curriculum designed by MIT professor Blakeley H. Payne.
+The curriculum focuses on topics such as training, classification and bias.
+
+* [AI for Middle School (Course Description()](https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/)
+
+* [AI for Middle School (Google Docs)](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
 
 #### Chatbots for Kids
 Chatbots can be fun, but there are many concerns about chatbots with feedback that
-generate bias and adult content.  Althogh we recomend adult supervision for all chatbots, here is one that is relativly benign.
+generate bias and adult content.  Althogh we m adult supervision for all chatbots, here is one that is relativly benign.
 https://www.pandorabots.com/mitsuku/
 
 If you are interested in writing your own chatbot for a classroom activity, here are some guildlines:
@@ -65,7 +70,24 @@ Both chatbots and Alexa apps (called "skills") are examples of conversational AI
 Designing AI for the classroom is currently difficult.
 [Amazon Alexa Confersational AI](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/conversational-ai)
 
+<<<<<<< HEAD
 ## Deep Learning Videos
+=======
+#### Grammerly Tool - AI for checking your writing
+The Grammerly tool can be used to not only check your grammer but it will also suggest alternate words and see if the tone of your document
+matches your goals.
+[Grammerly](grammerly.com)
+
+Note that there is a plugin for VSCode here:
+[Grammerly VSCode Plugin](https://github.com/znck/grammarl)
+
+#### TabNine - AI for compleating your code
+The TabNine extension for your Integrated Development Environment (IDE) is a good example of using a predictive model to suggest what text should be next in a sentence.
+[TabNine](https://www.tabnine.com/)
+
+
+## Videos
+>>>>>>> eddbb52a8962f7c0e86d3d015f08826db266b21e
 
 ### The 3Blue 1 Brown Series by Grant Sanderson
 This series has some of the best video production value of all the intoductary videos
@@ -103,6 +125,7 @@ This video covers the concepts of
 At the end they also add a footnote on how ReLU is more common than Sibmoid.
 [What is a neural network?]
 https://www.youtube.com/watch?time_continue=5&v=aircAruvnKk&feature=emb_logo
+<<<<<<< HEAD
 
 #### Gradient descent, how neural networks learn
 This is the second video.  It includes concepts such as
@@ -143,3 +166,5 @@ This is the second video.  It includes concepts such as
 
 [CS231n](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf)
 [video](https://www.youtube.com/watch?v=vT1JzLTH4G4)
+=======
+>>>>>>> eddbb52a8962f7c0e86d3d015f08826db266b21e
