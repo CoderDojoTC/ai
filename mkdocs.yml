@@ -10,6 +10,7 @@ nav:
     - Generative AI: labs/generative-ai.md
     - Hugging Face: labs/huggingface.md
     - Llama: labs/llama.md
+    - Tensorflow Playground: labs/tensorflow-playground/index.md
     - Trends: labs/trends.md
   - Glossary: glossary.md
   - Resources: resources.md
