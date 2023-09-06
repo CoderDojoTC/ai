@@ -5,7 +5,7 @@ We explored the topic of "Wan computers generate X" through the lens of products
 ## Image Generation
 
 1. [OpenAI Dall-E 2](https://openai.com/dall-e-2)
-2. [MidJourney](midjourney.com)
+2. [MidJourney](http://midjourney.com)
 3. [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 ## Text Generation
