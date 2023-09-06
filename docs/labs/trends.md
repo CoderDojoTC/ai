@@ -32,4 +32,5 @@ Note that if you are given a multiple-choice test with four possible answers, an
 
 ## Potting Progress
 
-[Contextual AI Plotting Progress](https://contextual.ai/plotting-progress-in-ai/)
+1. [Contextual AI Plotting Progress](https://contextual.ai/plotting-progress-in-ai/)
+2. [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
